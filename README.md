@@ -1,11 +1,15 @@
 # School District Analysis
+
 ## Purpose of Analysis
 The purpose of this analysis was to organize and visualize data from the school district to provide insights in performance trends and pattern. Specifically, this data analysis will be used to find evidence of academic dishonesty regarding the grading for ninth graders in Thomas High School. This analysis is also going to be used for budgeting. The data included standardized math and reading test scores. It also included spending, gender, school attended, and other info for each student in the school district. 
+
 ## Results
+
 ### Scores by School Spending
 Shown below are the summaries of school spending ranges per student, before and after (respectively) removing the Thomas High School ninth grade scores. In general, the statistics did not change much after removing them. Average scores and percentages stayed relatively the same when categorized by spending ranges.
 ![Spending_Summary_Original](https://user-images.githubusercontent.com/79877531/114454051-05828300-9b8f-11eb-81ae-c3185f43a496.PNG)
 ![Spending_Summary_2](https://user-images.githubusercontent.com/79877531/114454065-09aea080-9b8f-11eb-96d4-ec8174b81c7a.PNG)
+
 ### Scores by School Size
 Shown below are the summaries of scores grouped by school size. These statistics were also generally not effected by removing the THS ninth grade scores.
 
